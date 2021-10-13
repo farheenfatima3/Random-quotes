@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
 
 body{
-    background-color: blue;
+    background-color: #FCA5A5;
     font-family: 'Dosis', sans-serif;
     text-align: center;
+    color:#FCA5A5;
 }
 .check{
     background-color: white;
@@ -36,6 +37,7 @@ span{
 button{
     height:40px;
     width:100px;
+    background-color: #FCA5A5;
     
     color:black;
     border-radius:5px;

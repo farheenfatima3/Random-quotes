@@ -18,7 +18,6 @@ class App extends React.Component {
       input: Math.floor(Math.random() * 20)
 
     })
-console.log(this.state.input)
   }
 
   render() {
